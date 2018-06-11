@@ -4,7 +4,7 @@ You can play 'Daydraem cafe' on the terminal.
 
 Daydream cafe is the opening song of [Gochi-usa](http://www.gochiusa.com/), Japanese Anime.
 
-![result](https://github.com/ikorin24/ddcafe/blob/media/cap.gif)
+![result](https://github.com/ikorin24/ddcafe/blob/media/media/cap.gif)
 
 # Requirements
 
