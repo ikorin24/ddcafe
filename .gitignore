@@ -1,0 +1,10 @@
+dev/
+.idea/
+.DS_Store
+media/
+__pycache__/
+*.pyc
+dist/
+*.egg-info/
+build/
+dist/
