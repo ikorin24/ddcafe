@@ -16,6 +16,12 @@ Daydream cafe is the opening song of [Gochi-usa](http://www.gochiusa.com/), Japa
 pip install ddcafe
 ```
 
+if Windows, it needs curses module. Install curses wheel from [HERE](http://www.lfd.uci.edu/~gohlke/pythonlibs/#curses)
+
+```
+pip install <your-curses-wheel.whl>
+```
+
 # Usage
 
 ```
