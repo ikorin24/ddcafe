@@ -6,11 +6,11 @@ Daydream cafe is the opening song of [Gochi-usa](http://www.gochiusa.com/), Japa
 
 ![result](https://github.com/ikorin24/ddcafe/blob/media/media/cap.gif)
 
-# Requirements
+## Requirements
 
 - python3.x
 
-# Install
+## Install
 
 ```
 pip install ddcafe
@@ -22,13 +22,13 @@ if Windows, it needs curses module. Install curses wheel from [HERE](http://www.
 pip install <your-curses-wheel.whl>
 ```
 
-# Usage
+## Usage
 
 ```
 ddcafe [options]
 ```
 
-## Options
+### Options
 
 - `-h`, `--help`: show help
 - `-v`, `--version`: show version of this app
@@ -36,10 +36,10 @@ ddcafe [options]
 - `-d <DATA>`, `--data <DATA>`: movie source json data (default movie is "daydream cafe")
 - `-r`, `--reverse`: reverse pixel color; black to white, white to black
 
-## How to play sound ?
+### How to play sound ?
 
 If you imagine it, you would listen in your head.
 
-# Author
+## Author
 
 ikorin24([github](https://github.com/ikorin24))
