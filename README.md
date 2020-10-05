@@ -24,8 +24,10 @@ pip install <your-curses-wheel.whl>
 
 ## Usage
 
-```
-ddcafe [options]
+in your terminal
+
+```sh
+$ ddcafe [options]
 ```
 
 ### Options
